@@ -146,3 +146,15 @@ of Machinery and Manufactures</a></li>
 <p>Watt attempted to commercialise his invention, but experienced great financial difficulties until he entered a partnership with&nbsp;<a title="Matthew Boulton" href="https://en.wikipedia.org/wiki/Matthew_Boulton">Matthew Boulton</a>&nbsp;in 1775. The new firm of&nbsp;<a title="Boulton and Watt" href="https://en.wikipedia.org/wiki/Boulton_and_Watt">Boulton and Watt</a>&nbsp;was eventually highly successful and Watt became a wealthy man. In his retirement, Watt continued to develop new inventions though none was as significant as his steam engine work.</p>
 <p>He developed the concept of&nbsp;<a title="Horsepower" href="https://en.wikipedia.org/wiki/Horsepower">horsepower</a>,<sup id="cite_ref-2" class="reference"></sup>&nbsp;and the&nbsp;<a class="mw-redirect" title="SI" href="https://en.wikipedia.org/wiki/SI">SI</a>&nbsp;unit of power, the&nbsp;<a title="Watt" href="https://en.wikipedia.org/wiki/Watt">watt</a>, was named after him.</p>
 </br>
+
+<h2> Books </h2>
+
+
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(28).pdf" style="text-decoration:none;">Correspondence of the late James Watt on his discovery of the theory of the composition of water. with a letter from his son [Part I]</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(29).pdf" style="text-decoration:none;">Correspondence of the late James Watt on his discovery of the theory of the composition of water. with a letter from his son [Part II]</a></li>
+</ul>
+
+</br>
+
