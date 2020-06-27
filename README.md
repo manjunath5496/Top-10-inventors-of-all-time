@@ -112,5 +112,30 @@ made at Philadelphia in America</a></li>
 <p><strong>Charles Babbage</strong>&nbsp;<span class="noexcerpt nowraplinks"><a class="mw-redirect" title="Knight of the Royal Guelphic Order" href="https://en.wikipedia.org/wiki/Knight_of_the_Royal_Guelphic_Order">KH</a>&nbsp;<a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a></span>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/&aelig;/: 'a' in 'bad'">&aelig;</span><span title="'b' in 'buy'">b</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="/dʒ/: 'j' in 'jam'">dʒ</span>/</a></span></span>; 26 December 1791&nbsp;&ndash; 18 October 1871) was an English&nbsp;<a title="Polymath" href="https://en.wikipedia.org/wiki/Polymath">polymath</a>.<sup id="cite_ref-Whalen1999_1-0" class="reference"></sup>&nbsp;A mathematician, philosopher, inventor and mechanical engineer, Babbage originated the concept of a digital programmable computer.<sup id="cite_ref-babb_2-0" class="reference"></sup></p>
 <p>Considered by some to be "<a title="List of pioneers in computer science" href="https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science">father of the computer</a>",<sup id="cite_ref-babb_2-1" class="reference"></sup><sup id="cite_ref-3" class="reference"></sup><sup id="cite_ref-4" class="reference"></sup><sup id="cite_ref-5" class="reference"></sup>&nbsp;Babbage is credited with inventing the first&nbsp;<a title="Mechanical computer" href="https://en.wikipedia.org/wiki/Mechanical_computer">mechanical computer</a>&nbsp;that eventually led to more complex electronic designs, though all the essential ideas of modern computers are to be found in Babbage's&nbsp;<a title="Analytical Engine" href="https://en.wikipedia.org/wiki/Analytical_Engine">Analytical Engine</a>.<sup id="cite_ref-babb_2-2" class="reference"></sup><sup id="cite_ref-6" class="reference"></sup>&nbsp;His varied work in other fields has led him to be described as "pre-eminent" among the many polymaths of his century.<sup id="cite_ref-Whalen1999_1-1" class="reference"></sup></p>
 <p>Parts of Babbage's incomplete mechanisms are on display in the&nbsp;<a class="mw-redirect" title="London Science Museum" href="https://en.wikipedia.org/wiki/London_Science_Museum">Science Museum</a>&nbsp;in London. In 1991, a functioning&nbsp;<a title="Difference engine" href="https://en.wikipedia.org/wiki/Difference_engine">difference engine</a>&nbsp;was constructed from Babbage's original plans. Built to&nbsp;<a title="Engineering tolerance" href="https://en.wikipedia.org/wiki/Engineering_tolerance">tolerances</a>&nbsp;achievable in the 19th century, the success of the finished engine indicated that Babbage's machine would have worked.</p>
+</br>
+<h2> Books </h2>
 
 
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(18).pdf" style="text-decoration:none;">A comparative view of the various institutions for the assurance of lives</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(19).pdf" style="text-decoration:none;">On the Influence of Signs in Mathematical Reasoning</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(20).pdf" style="text-decoration:none;">On the Economy
+of Machinery and Manufactures</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(21).pdf" style="text-decoration:none;"> Examples of the solutions of functional equations</a></li>
+                               
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(22).pdf" style="text-decoration:none;"> The Exposition of 1851</a></li>   
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(23).pdf" style="text-decoration:none;">The Ninth Bridgewater Treatise</a></li>
+                <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(24).pdf" style="text-decoration:none;">Observations on the Temple of Serapis at Pozzuoli Near Naples; With an Attempt to Explain the Causes of the Frequent Elevation and Depression of Large ... Prove That Those Causes Continue in Action at Hardcover – Import, 5 December 2015</a></li> 
+                
+   <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(25).pdf" style="text-decoration:none;">Passages from the Life of a Philosopher</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(26).pdf" style="text-decoration:none;">Decline of Science in England</a></li>               
+                
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(27).pdf" style="text-decoration:none;">Thoughts on the principles of taxation: with reference to a property tax, and its exceptions</a></li>                   
+
+</ul>
+
+</br>
