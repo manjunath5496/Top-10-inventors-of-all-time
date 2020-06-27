@@ -167,3 +167,17 @@ of Machinery and Manufactures</a></li>
 
 </br>
 
+<h2> Books </h2>
+
+
+<ul>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(30).pdf" style="text-decoration:none;">Beinn Bhreagh Recorder</a></li>
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(31).pdf" style="text-decoration:none;">The Duration of Life and Conditions Associated with Longevity: A Study of the Hyde Genealogy</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/hgk(33).pdf" style="text-decoration:none;">The Telephone: A Lecture Entitled, Researches in Electric Telephony: Delivered Before the Society of Telegraph Engineers</a></li>
+  
+
+</ul>
+
+</br>
