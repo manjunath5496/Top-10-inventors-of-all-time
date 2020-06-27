@@ -237,4 +237,45 @@ of Machinery and Manufactures</a></li>
 <p>Berners-Lee is the director of the&nbsp;<a title="World Wide Web Consortium" href="https://en.wikipedia.org/wiki/World_Wide_Web_Consortium">World Wide Web Consortium</a>&nbsp;(W3C) which oversees the continued development of the Web. He is also the founder of the&nbsp;<a title="World Wide Web Foundation" href="https://en.wikipedia.org/wiki/World_Wide_Web_Foundation">World Wide Web Foundation</a>&nbsp;and is a senior researcher and holder of the 3Com founders chair at the&nbsp;<a title="MIT Computer Science and Artificial Intelligence Laboratory" href="https://en.wikipedia.org/wiki/MIT_Computer_Science_and_Artificial_Intelligence_Laboratory">MIT Computer Science and Artificial Intelligence Laboratory</a>&nbsp;(CSAIL).<sup id="cite_ref-12" class="reference"></sup>&nbsp;He is a director of the&nbsp;<a class="mw-redirect" title="Web Science Research Initiative" href="https://en.wikipedia.org/wiki/Web_Science_Research_Initiative">Web Science Research Initiative</a>&nbsp;(WSRI)<sup id="cite_ref-13" class="reference"></sup>&nbsp;and a member of the advisory board of the&nbsp;<a title="MIT Center for Collective Intelligence" href="https://en.wikipedia.org/wiki/MIT_Center_for_Collective_Intelligence">MIT Center for Collective Intelligence</a>.<sup id="cite_ref-14" class="reference"></sup><sup id="cite_ref-15" class="reference"></sup>&nbsp;In 2011, he was named as a member of the board of&nbsp;<a title="Trustee" href="https://en.wikipedia.org/wiki/Trustee">trustees</a>&nbsp;of the&nbsp;<a title="Ford Foundation" href="https://en.wikipedia.org/wiki/Ford_Foundation">Ford Foundation</a>.<sup id="cite_ref-16" class="reference"></sup>&nbsp;He is a founder and president of the&nbsp;<a title="Open Data Institute" href="https://en.wikipedia.org/wiki/Open_Data_Institute">Open Data Institute</a>&nbsp;and is currently an advisor at social network&nbsp;<a class="mw-redirect" title="MeWe (social media)" href="https://en.wikipedia.org/wiki/MeWe_(social_media)">MeWe</a>.<sup id="cite_ref-17" class="reference"></sup></p>
 <p>In 2004, Berners-Lee was knighted by Queen&nbsp;<a title="Elizabeth II" href="https://en.wikipedia.org/wiki/Elizabeth_II">Elizabeth II</a>&nbsp;for his pioneering work.<sup id="cite_ref-tecb_18-0" class="reference"></sup><sup id="cite_ref-knighted_19-0" class="reference"></sup>&nbsp;In April 2009, he was elected a&nbsp;<a class="mw-redirect" title="Foreign Associate of the National Academy of Sciences" href="https://en.wikipedia.org/wiki/Foreign_Associate_of_the_National_Academy_of_Sciences">Foreign Associate of the National Academy of Sciences</a>.<sup id="cite_ref-20" class="reference"></sup><sup id="cite_ref-21" class="reference"></sup>&nbsp;He was named in&nbsp;<em>Time</em>&nbsp;magazine's list of the&nbsp;<a title="Time 100: The Most Important People of the Century" href="https://en.wikipedia.org/wiki/Time_100:_The_Most_Important_People_of_the_Century">100 Most Important People of the 20th century</a>&nbsp;and has received a&nbsp;<a class="mw-redirect" title="Awards and honours presented to Tim Berners-Lee" href="https://en.wikipedia.org/wiki/Awards_and_honours_presented_to_Tim_Berners-Lee">number of other accolades</a>&nbsp;for his invention.<sup id="cite_ref-Time_22-0" class="reference"></sup>&nbsp;He was honoured as the "Inventor of the World Wide Web" during the 2012 Summer Olympics opening ceremony in which he appeared working with a vintage&nbsp;<a title="NeXT Computer" href="https://en.wikipedia.org/wiki/NeXT_Computer">NeXT Computer</a>&nbsp;at the&nbsp;<a class="mw-redirect" title="Olympic Stadium (London)" href="https://en.wikipedia.org/wiki/Olympic_Stadium_(London)">London Olympic Stadium</a>.<sup id="cite_ref-Friar_23-0" class="reference"></sup>&nbsp;He tweeted "This is for everyone"<sup id="cite_ref-OlympicsTweet_24-0" class="reference"></sup>&nbsp;which appeared in LCD lights attached to the chairs of the audience.<sup id="cite_ref-Friar_23-1" class="reference"></sup>&nbsp;He received the 2016&nbsp;<a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">Turing Award</a>&nbsp;"for inventing the World Wide Web, the first web browser, and the fundamental protocols and algorithms allowing the Web to scale".</p>
 </br>
+<h2> Books </h2>
 
+ <ul>
+
+                             
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(1).pdf" style="text-decoration:none;">World-Wide Web: An Information Infrastructure for High-Energy Physics</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(2).pdf" style="text-decoration:none;">Long Live the Web</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(3).pdf" style="text-decoration:none;">The Semantic Web: A new form of Web content that is meaningful to computers will unleash a revolution of new possibilities</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(4).pdf" style="text-decoration:none;">Open letter from Just Net Coalition to Sir Tim Berners-Lee seeking his urgent intervention to stop acceptance of Encrypted Media Extensions as a W3C standard</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(5).pdf" style="text-decoration:none;">Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(6).pdf" style="text-decoration:none;">The world-wide web</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(7).pdf" style="text-decoration:none;">The CERN host interface</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(8).pdf" style="text-decoration:none;"> Interview with Tim Berners-Lee</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(9).pdf" style="text-decoration:none;">World-Wide Web: The Information Universe</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(10).pdf" style="text-decoration:none;"> Experience with Remote Procedure Call in Data Acquisition and Control</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(11).pdf" style="text-decoration:none;">The VALET-Plus, a VMEbus Based Microcomputer for Physics Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(12).pdf" style="text-decoration:none;"> Internet Access is a Human Right</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(13).pdf" style="text-decoration:none;"> A Framework for Web Science</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(14).pdf" style="text-decoration:none;">Policy Aware Content Reuse on the Web</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(15).pdf" style="text-decoration:none;"> Universal Resource identifiers in WWW - World Wide Web </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(16).pdf" style="text-decoration:none;">Web Architecture: Extensible Languages</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(17).pdf" style="text-decoration:none;"> Hypertext Markup Language (HTML)</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(18).pdf" style="text-decoration:none;"> Web Science: Studying the Internet to Protect Our Future</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(19).pdf" style="text-decoration:none;">A Demonstration of the Solid Platform for Social Web Applications</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(20).pdf" style="text-decoration:none;"> Transparent Accountable Data Mining: New Strategies for Privacy Protection</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Top-10-inventors-of-all-time/blob/master/tim(21).pdf" style="text-decoration:none;"> The CHI, a new Fastbus Interface and Processor</a></li>
+</ul>  
+  
+  </br>
